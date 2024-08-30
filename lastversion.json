@@ -1,8 +1,8 @@
 {
-    "version":1.22,
+    "version":1.24,
     "changes":[
-        "Mesaja görüldü olayı eklendi",
-        "Bildirimden otomatşk görüldü olarak işaretleme eklendi"
+        "Firebase crashlytics eklendi",
+        "Kullanıcı online durumu eklendi"
     ],
     "apks":[
         "arm64-v8a",
