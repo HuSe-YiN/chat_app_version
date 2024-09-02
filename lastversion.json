@@ -1,9 +1,8 @@
 {
-    "version":1.25,
+    "version":1.26,
     "changes":[
-        "Kullanıcı online durumu düzenlendi",
-        "Fcm Token düzenlendi",
-        "Son mesaj yapısı değiştirildi"
+        "Yazıyor dinlemesi eklendi",
+        "Güncelleme bildirime aktarıldı"
     ],
     "apks":[
         "arm64-v8a",
